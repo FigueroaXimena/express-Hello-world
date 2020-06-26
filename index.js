@@ -3,7 +3,7 @@
 const express = require ('express');
 
 // ponemos el puerto del server en una variable
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 4000;
 
 // crea el objeto app
 const app = express ();
